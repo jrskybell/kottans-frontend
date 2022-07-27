@@ -34,7 +34,6 @@
 
 ## 3. Git Collaboration
 
-![first](./task_git_collaboration/Screenshot_1.jpg) ![second](./task_git_collaboration/Screenshot_2.jpg)
 
 Пройшов курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github). Дуже простий в розумінні, що полегшує подальший розвиток в роботі з Git. Також завершив наступні рівні в [learngitbranching](https://learngitbranching.js.org/):
 ![screen_1](./task_git_collaboration/Screenshot_1.jpg)
