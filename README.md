@@ -31,3 +31,15 @@
  - Та ж сама історія. Майже весь матеріал новий. Але, звісно, є знайомі терміни (як і для всіх, хто не перший день користується інтернетом);
  - Здивувало те, як сильно відрізняються http і https (не тільки буквою :sweat_smile:);
  - А от далі побачим, що саме буду використовувати!
+
+## 3. Git Collaboration
+
+![first](./task_git_collaboration/Screenshot_1.jpg) ![second](./task_git_collaboration/Screenshot_2.jpg)
+
+Пройшов курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github). Дуже простий в розумінні, що полегшує подальший розвиток в роботі з Git. Також завершив наступні рівні в [learngitbranching](https://learngitbranching.js.org/):
+![screen_1](./task_git_collaboration/Screenshot_1.jpg)
+![screen_2](./task_git_collaboration/Screenshot_2.jpg)
+
+ - Для мене нове, що в `git push` та `git fetch` можна передавати аргументи;
+ - Мене здивувало, що за допомогою `git push origin` можна видаляти гілку, а за допомогою `git fetch` - створити гілку в локальному репозиторії;
+ - Буду користуватися аргументами в `git push` і `git fetch`, бо це реально зручно!
