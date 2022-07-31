@@ -41,3 +41,13 @@
  - Для мене нове, що в `git push` та `git fetch` можна передавати аргументи;
  - Мене здивувало, що за допомогою `git push origin` можна видаляти гілку, а за допомогою `git fetch` - створити гілку в локальному репозиторії;
  - Буду користуватися аргументами в `git push` і `git fetch`, бо це реально зручно!
+
+## 4. Intro to HTML and CSS
+
+![codecademy](./task_html_css_intro/htmlCSS.jpg)
+
+Прослухав тижні 1 і 2 курсу [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers). Гарна подача матеріалу! Також пройшов курс [Learn HTML](https://www.codecademy.com/learn/learn-html) та [Learn CSS](https://www.codecademy.com/learn/learn-css). Сподобалось, що майже після кожного завдання є практичне завдання.
+
+  - З нового не можу нічого виділити, бо до цього вже був знайомий з HTML та CSS.
+  - Здивувало, що можна надавати стилі атрибутам.
+  - Буду використовувати Bootstrap. Дуже прикольний фреймворк.
